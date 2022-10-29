@@ -5,7 +5,8 @@
 <img scr="a1.PNG">
 
 2. Setelah download selesai, install aplikasinya
-<img scr="a2.PNG>
+
+<img scr="a2.PNG">
 
 3. Setelah Vscode di install jalankan Aplikasinya dan install Extension Python
 
